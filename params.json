@@ -1,0 +1,11 @@
+{
+  "nl_version": "2020-07-03",
+  "nl_api_key": "PlVtNhAzF3ei_KBC8Miw5jVoSLiIGy2E09cGwJAGTnYY",
+  "nl_url": "https://api.us-east.natural-language-understanding.watson.cloud.ibm.com/instances/8af9a8df-3233-4c78-9e73-0f7ea5159e5f",
+  "nl_model_id": "0c25bce2-7248-4410-b632-10559df022d7",
+ 
+  "url": "https://api.us-east.discovery.watson.cloud.ibm.com/instances/3bb82015-27f7-4c67-be71-758ce4e10994",
+  "iam_apikey": "ypt5FzCEvgK8SACrfX-oXhQfiEKBxuFBUNbuMH9jGxry",
+  "environment_id": "c1ef43a0-5047-40ec-97c5-80bc001e3a54",
+  "collection_id": "15895c80-2113-4b88-8573-1ba2750de489"
+}
